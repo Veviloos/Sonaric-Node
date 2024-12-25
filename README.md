@@ -1,4 +1,4 @@
-# What is Sonaric AI and how to run the Sonaric Node on VPS server to recieve points. 
+# What is Sonaric AI and how to run the Sonaric Node on VPS server to receive points. 
 The Sonaric Network is a cutting-edge, AI-driven platform designed to make blockchain computing smarter and more efficient. By autonomously matching pooled resources with demand across different blockchain networks, it ensures optimal resource allocation. For contributors, it promises fair rewards, making it an innovative solution for decentralized computing.
 
 Although still in its early stages, the project has generated interest due to the credibility of its investors, advisors, and backers, as detailed on https://sonaric.xyz/. However, as with any emerging technology, it's crucial to do your own research (DYOR) before getting involved.
