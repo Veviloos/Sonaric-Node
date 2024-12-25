@@ -26,7 +26,6 @@ sh -c "$(curl -fsSL https://get.sonaric.xyz/scripts/install.sh)"
 ```console
 sonaric node-info
 ```
-![Screenshot_143](https://github.com/user-attachments/assets/d0bd314b-2d65-49cd-8057-e7ae1a84bf5a)
 
 ## 4. Update Sonaric
 ```console
