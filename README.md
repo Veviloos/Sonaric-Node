@@ -69,7 +69,10 @@ sonaric node-register CODE
 ## 7. Multiple Nodes
 **You can add multiple nodes to your cluster by just adding them to your discord account in the same way**
 
-### 8. Optional: Delete node
+## 8. Check your points
+by entering this command in VPS `sonaric points` 
+
+### 9. Optional: Delete node
 ```
 sudo apt remove --purge sonaricd sonaric
 ```
